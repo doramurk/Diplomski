@@ -1,6 +1,6 @@
 # Diplomski rad
 
-                    Sveučilište u Zgarebu
+                    Sveučilište u Zagrebu
               
             Fakultet elektrotehnike i računarstva
             
